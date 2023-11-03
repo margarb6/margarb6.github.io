@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoony Landmarks
+* source:	https://sketchfab.com/3d-models/cartoony-landmarks-24b9c74a214941e6a1068241eab1498c
+* author:	Harry Charalambous (https://sketchfab.com/charalamboscharalambous8)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoony Landmarks" (https://sketchfab.com/3d-models/cartoony-landmarks-24b9c74a214941e6a1068241eab1498c) by Harry Charalambous (https://sketchfab.com/charalamboscharalambous8) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
